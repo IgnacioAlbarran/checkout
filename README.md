@@ -2,11 +2,11 @@
 We have degigned a system for a shop with products and discounts
 runs a physical store which sells 3 products:
 <br>
-Code         | Name         |  Price<br>
-----------------------------------------<br>
-VOUCHER      | Voucher      |   5.00€<br>
-TSHIRT       | T-shirt      |  20.00€<br>
-MUG          | Coffee mug   |   7.50€<br>
+| Code | Name | Price |<br>
+| -- | -- | -- |<br>
+| VOUCHER | Voucher     | 5.00€  |<br>
+| TSHIRT  | T-shirt     | 20.00€ |<br>
+| MUG     | Coffee mug  | 7.50€  |<br>
 <br>
 Various departments have suggested some discounts to improve sales:<br>
 <br>

@@ -12,7 +12,7 @@ Various departments have suggested some discounts to improve sales:<br>
 <br>
 The marketing department wants a 2-for-1 special on VOUCHER items.<br>
 The CFO insists that the best way to increase sales is with (tiny) discounts on bulk purchases. If you buy 3 or more TSHIRT items, the price per unit should be 19.00€.<br>
-The checkout process allows for items to be scanned in any order, and calculates the total price. The interface looks like this (in ruby):<br>
+The checkout process allows for items to be scanned in any order, and calculates the total price.<br>
 <br>
 That is why we create a checkout system with the two different rules and the shop assistant will select the applicable one this way:<br>
 <br>

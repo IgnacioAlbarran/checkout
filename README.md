@@ -1,5 +1,5 @@
 # Checkout<br>
-We have degigned a system for a shop with products and discounts
+We have designed a system for a shop with products and discounts
 runs a physical store which sells 3 products:
 <br>
 | Code | Name | Price |

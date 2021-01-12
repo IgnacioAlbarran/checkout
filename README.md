@@ -16,11 +16,11 @@ The checkout process allows for items to be scanned in any order, and calculates
 <br>
 That is why we create a checkout system with the two different rules and the shop assistant will select the applicable one this way:<br>
 <br>
-checkout = Checkout.new(price_rules)<br>
-checkout.scan("VOUCHER")<br>
-checkout.scan("VOUCHER")<br>
-checkout.scan("TSHIRT")<br>
-price = checkout.total<br>
+    checkout = Checkout.new(price_rules)<br>
+    checkout.scan("VOUCHER")<br>
+    checkout.scan("VOUCHER")<br>
+    checkout.scan("TSHIRT")<br>
+    price = checkout.total<br>
 <br>
 <br>
 Our team will add, remove, and change products and discounts, so they are configurable with a JSON file.

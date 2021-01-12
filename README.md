@@ -1,4 +1,4 @@
-#Checkout<br>
+# Checkout<br>
 We have degigned a system for a shop with products and discounts
 runs a physical store which sells 3 products:
 <br>
